@@ -6,7 +6,7 @@ GitHub is ready. Complete these steps in the browser tab that opened (or go to [
 
 1. **Sign in** with GitHub (same account: `Pradeep007-pixel`).
 2. Click **Connect account** if asked, and allow Render to read your repos.
-3. Find and select **`Quantum_Route_Optimization`**.
+3. Find and select **`Quantum-Route-Optimization`**.
 4. Render detects `render.yaml` → click **Apply**.
 5. Wait until status is **Live** (first build ~5–10 min).
 6. Live URL: **https://quantum-route-pyce.onrender.com**
@@ -15,5 +15,5 @@ GitHub is ready. Complete these steps in the browser tab that opened (or go to [
 
 | Label | URL |
 |--------|-----|
-| GitHub Repository | https://github.com/Pradeep007-pixel/Quantum_Route_Optimization |
+| GitHub Repository | https://github.com/Pradeep007-pixel/Quantum-Route-Optimization |
 | Live Demo | https://quantum-route-pyce.onrender.com |

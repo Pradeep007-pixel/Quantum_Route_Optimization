@@ -1,7 +1,7 @@
 # Quantum Route Optimization (Hybrid Quantum-Classical Logistics)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge)](https://quantum-route-pyce.onrender.com)
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pradeep007-pixel/Quantum_Route_Optimization)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pradeep007-pixel/Quantum-Route-Optimization)
 
 **Author:** [Althi Pradeep Kumar](https://github.com/Pradeep007-pixel) — sole developer and maintainer.
 
@@ -11,7 +11,7 @@ A comprehensive, full-stack vehicle route optimization engine that leverages hyb
 
 ![Quantum Route Optimization Dashboard](docs/screenshot.png)
 
-**Links:** [Live Demo](https://quantum-route-pyce.onrender.com) · [Repository](https://github.com/Pradeep007-pixel/Quantum_Route_Optimization)
+**Links:** [Live Demo](https://quantum-route-pyce.onrender.com) · [Repository](https://github.com/Pradeep007-pixel/Quantum-Route-Optimization)
 
 ## 🚀 Key Features
 
@@ -31,8 +31,8 @@ A comprehensive, full-stack vehicle route optimization engine that leverages hyb
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Pradeep007-pixel/Quantum_Route_Optimization.git
-    cd Quantum_Route_Optimization
+    git clone https://github.com/Pradeep007-pixel/Quantum-Route-Optimization.git
+    cd Quantum-Route-Optimization
     ```
 
 2.  **Set Up the Backend:**

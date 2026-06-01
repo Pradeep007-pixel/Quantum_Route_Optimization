@@ -4,7 +4,7 @@ Your app is a **single service**: FastAPI serves the API and the built React UI.
 
 ## Step 1 — Push code to GitHub
 
-Repo: `https://github.com/Pradeep007-pixel/Quantum_Route_Optimization`
+Repo: `https://github.com/Pradeep007-pixel/Quantum-Route-Optimization`
 
 ```powershell
 cd c:\Users\Dell\Desktop\quantum_route_project
@@ -16,7 +16,7 @@ git push origin main
 If the repo is new or empty on GitHub, create it first (same name), then:
 
 ```powershell
-git remote add origin https://github.com/Pradeep007-pixel/Quantum_Route_Optimization.git
+git remote add origin https://github.com/Pradeep007-pixel/Quantum-Route-Optimization.git
 git branch -M main
 git push -u origin main
 ```
@@ -25,7 +25,7 @@ git push -u origin main
 
 1. Sign in at [render.com](https://render.com) (GitHub login is easiest).
 2. **New** → **Blueprint**.
-3. Connect **Pradeep007-pixel/Quantum_Route_Optimization** and approve access.
+3. Connect **Pradeep007-pixel/Quantum-Route-Optimization** and approve access.
 4. Render reads `render.yaml` automatically. Click **Apply**.
 5. Wait for the build (~5–10 min first time: `npm ci`, `npm run build`, `pip install`).
 6. Open your live URL: `https://quantum-route-pyce.onrender.com`.
@@ -45,7 +45,7 @@ Visit `http://localhost:8000`.
 
 | Use | URL |
 |-----|-----|
-| Source code | `https://github.com/Pradeep007-pixel/Quantum_Route_Optimization` |
+| Source code | `https://github.com/Pradeep007-pixel/Quantum-Route-Optimization` |
 | Live demo | Your Render URL from Step 2 |
 | Label on resume | `Live Demo` or `GitHub Repository` |
 
